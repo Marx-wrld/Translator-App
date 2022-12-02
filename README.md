@@ -4,3 +4,4 @@ A simple python with flask project code for a translator service, translating to
 ##### Then activate using > .\venv\scripts\activate
 ##### Extract the env zip file and copy the .env file to the root directory
 ##### open your vscode terminal and type > flask run
+##### click the localhost 5000 link to see the flask app
